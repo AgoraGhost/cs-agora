@@ -4,6 +4,6 @@
   "description": "Tüm linklerim: https://linktr.ee/kraptorcs",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/builds/plugins.json"
+    "https://raw.githubusercontent.com/AgoraGhost/cs-agora/refs/heads/builds/plugins.json"
   ]
 }
