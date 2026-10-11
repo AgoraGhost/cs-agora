@@ -90,7 +90,7 @@
   {
     "url": "https://raw.githubusercontent.com/AgoraGhost/cs-agora/builds/Anizium.cs3",
     "status": 1,
-    "version": 26,
+    "version": 27,
     "name": "Anizium",
     "internalName": "Anizium",
     "authors": [
@@ -106,8 +106,7 @@
       "Anime"
     ],
     "iconUrl": "https://anizium.co/assets/images/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-4c5f80394e518474ea77e40c128a10ad4cb2b7564e65bd941da068ec6a206070"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/AsyaAnimeleri.cs3",
