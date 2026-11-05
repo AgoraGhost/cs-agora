@@ -22,7 +22,7 @@
 |DiziPal:https://dizipal2147.com
 |DiziPalOrijinal:https://dizipal1594.com
 |DiziPod:https://dizipod.com
-|Dizilla:https://dizilla.now
+|Dizilla:https://dizilla.la
 |DiziYo:https://www.diziyo.so:443
 |DiziYou:https://www.diziyou.one
 |DMax:https://www.dmax.com.tr
@@ -34,7 +34,7 @@
 |FullHDFilmizlesene:https://www.fullhdfilmizlesene.now
 |GinikoCanli:https://www.giniko.com
 |HDFilmCehennemi:https://www.hdfilmcehennemi.nl
-|HDFilmDelisi:https://hdfilmdelisi.one
+|HDFilmDelisi:https://hdfilmdelisi1.com
 |HDFilmizle:https://www.hdfilmizle.live
 |Jetfilmizle:https://jetfilmizle.app
 |KanalD:https://www.kanald.com.tr
@@ -46,7 +46,7 @@
 |OpenAnime:https://openani.me
 |RareFilmm:https://rarefilmm.com
 |SeiCode:https://seiwatch.net
-|SelcukFlix:https://selcukflix.com
+|SelcukFlix:https://selcukflix.app
 |SezonlukDizi:https://sezonlukdizi.cc
 |SetFilmIzle:https://www.setfilmizle.ltd
 |ShowTv:https://www.showtv.com.tr
